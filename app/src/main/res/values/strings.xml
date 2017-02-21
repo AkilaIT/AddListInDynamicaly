@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AddinListDynamic</string>
+    <string name="hint_party_name">Party Name</string>
+    <string name="hint_bill_number">Bill Number</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_godown">Godown Name</string>
+    <string name="hint_partyDialog_name">Item Name</string>
+    <string name="hint_prchDialog_code">Item Code</string>
+    <string name="purDialog_quty">Quantity</string>
+    <string name="purDialog_rate">Rate</string>
+    <string name="purDialog_disc">Discount</string>
+</resources>
